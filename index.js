@@ -6,7 +6,7 @@
 //window.alert(`I like pizza`);
 
 document.getElementById("myH1").textContent='Hello';
-document.getElementById("myP1").textContent='I like pizza.'
+document.getElementById("myP1").textContent='I like pizza,'
 document.getElementById("myP2").textContent='with a cup of coffee.'
 
 
